@@ -1,5 +1,4 @@
 #ENCODED BY : IT'S MAINUL ISLAM
-#TEAM : DARK FORCE - 71
 #𝖤𝗇𝖼𝗋𝗒𝗉𝗍𝗂𝗈𝗇 : PY3 MARSHAL
 #Py3 Version : 3.10.4
 import marshal
